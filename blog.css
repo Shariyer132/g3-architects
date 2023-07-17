@@ -123,6 +123,62 @@ padding: 30px;
      margin-top: 130px;
      margin-bottom: 200px;
 }
+/*features styles*/
+.features{
+    margin-top: 130px;
+    display: flex;
+    gap: 100px;
+   
+}
+.feature-content{
+   
+}
+.features .section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+.cards{
+    border-radius: 8px;
+background: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+padding: 30px;
+width: 586px;
+height: 171px;
+margin-bottom: 20px;
+
+}
+.features-img{
+    border-radius: 8px;
+    width: 708px;
+    height: 982px;
+    
+}
+.ten-year-badge{
+    border-radius: 8px;
+    background: #FF900E;
+    width: 342px;
+    height: 200px;
+    text-align: center;
+    padding: 45px 42px;
+   
+}
+.ten-year-badge h2{
+    color: #FFF;
+font-size: 4.1rem;
+font-weight: 700;
+margin-bottom: 10px;
+}
+.ten-year-badge p{
+    color: #FFF;
+    font-size: 1.6rem;
+    font-weight: 500;
+    
+}
+.cards h4 {
+    color: #131313;
+font-size: 1.25rem;
+font-weight: 600;
+}
 
 /*common styles*/
 .btn-primary{
